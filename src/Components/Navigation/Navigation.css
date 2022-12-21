@@ -1,0 +1,15 @@
+.navbar>.container {
+  display: contents;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  box-shadow: none;
+}
+
+.navbar-sticky {
+  top: 0;
+  position: sticky;
+  z-index: 10000;
+}
