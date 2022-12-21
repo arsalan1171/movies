@@ -12,7 +12,12 @@ when clicked on a movie it redirects to a movie details page which has other add
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
 
 ## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Homepage
+![sample1](https://user-images.githubusercontent.com/25643936/208997257-4d4d8fc1-ffaf-436c-aff1-c7cb5d4b971d.png)
+Movies List Page
+![movie2](https://user-images.githubusercontent.com/25643936/208997146-b4239023-e6dc-480f-9511-e36a685ed836.png)
+Movie Details Page
+![movie3](https://user-images.githubusercontent.com/25643936/208997195-227a8531-3968-4b65-aa29-9dd945fa524e.png)
 
 ## Installation
 Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
@@ -34,7 +39,7 @@ For people who want to make changes to your project, it's helpful to have some d
 You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+Arsalan Shahid
 
 ## License
 For open source projects, say how it is licensed.
