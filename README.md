@@ -19,6 +19,12 @@ Movies List Page
 Movie Details Page
 ![movie3](https://user-images.githubusercontent.com/25643936/208997195-227a8531-3968-4b65-aa29-9dd945fa524e.png)
 
+![image](https://user-images.githubusercontent.com/25643936/220332868-bf1c4993-41b0-428a-9064-2de193727bf3.png)
+![image](https://user-images.githubusercontent.com/25643936/220332947-86976d8c-28d0-42f0-b503-f0315c098b8c.png)
+![image](https://user-images.githubusercontent.com/25643936/220333047-829b3ea3-c9a8-4f3c-a0c7-b912bc804389.png)
+
+
+
 ## Installation
 Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
 
