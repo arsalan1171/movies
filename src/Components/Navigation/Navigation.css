@@ -13,3 +13,7 @@
   position: sticky;
   z-index: 10000;
 }
+
+.nav-link {
+  margin-left: 20px;
+}
